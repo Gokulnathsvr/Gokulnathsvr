@@ -1,11 +1,5 @@
 # 👋 Welcome to My Portfolio
 
-<div align="center">
-
-![Product Designer | AI Enthusiast | Vibe Coder](https://img.shields.io/badge/Product%20Designer-AI%20Enthusiast-Vibe%20Coder-blue?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 🚀 Introduction

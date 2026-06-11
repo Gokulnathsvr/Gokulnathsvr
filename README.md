@@ -59,9 +59,9 @@ My work focuses on creating **user-centered products** that are:
 <div align="center">
 
 **Open to:**
-- 🤝 Collaboration
-- 💭 Innovative product ideas
-- 🚀 Building AI-driven digital experiences
+🤝 Collaboration
+💭 Innovative product ideas
+🚀 Building AI-driven digital experiences
 
 </div>
 
